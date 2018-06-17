@@ -1,2 +1,2 @@
-# genome-_sequence-_aligner
+# genome_sequence_aligner
 Seed-and-extend aligner for genomic data. 
